@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/1af993da-bf59-4560-837a-0e110a6a6945
 ## Tennis-Tracker-AI
 
 This project demonstrates object detection on a tennis court, specifically identifying players and tennis balls. It uses a fine-tuned YOLOv8 model trained on a tennis-specific dataset to perform accurate object detection in video files.
@@ -28,7 +27,7 @@ ByteTrack: Enabled real-time object tracking across frames.
 
 The model performed well in detecting and tracking both players and the tennis ball across frames. ByteTrack allows for maintaining object identity through frames, enhancing the continuity of the object detection process.
 
-  # Sample Output 
+  # Sample Output (Compressed) 
 Here's the output video downloaded in "court-tracker.ipynb" : 
 
 
