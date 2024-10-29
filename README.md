@@ -1,9 +1,9 @@
 
-## Tennis-Tracker-AI
+# Tennis-Tracker-AI
 
 This project demonstrates object detection on a tennis court, specifically identifying players and tennis balls. It uses a fine-tuned YOLOv8 model trained on a tennis-specific dataset to perform accurate object detection in video files.
 
-  # Sample Output (Compressed) 
+  ## Sample Output (Compressed) 
 Here's the output video downloaded in "court-tracker.ipynb" : 
 
 
